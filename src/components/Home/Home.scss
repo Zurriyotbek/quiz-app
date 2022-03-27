@@ -1,0 +1,37 @@
+.home {
+  margin: 0;
+  padding: 0;
+  min-width: 245px;
+  min-height: 476px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../images/home-screen-bg.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  h1 {
+    margin: 0;
+    padding: 0;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #fffefc;
+  }
+
+  a {
+    margin: 0;
+    margin-top: 70px;
+    padding: 4px 25px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: #fca82f;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #fffefc;
+  }
+}
