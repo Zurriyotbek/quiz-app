@@ -1,5 +1,3 @@
-background-color: `#000000`
-
 
 # Getting Started with Create React App
 
